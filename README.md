@@ -23,6 +23,7 @@ Execute the C Program for the desired output.
 ## C program that receives a message from message queue and display them
 
 ```
+writer.c
 #include <stdio.h> 
 #include <sys/ipc.h> 
 #include <sys/msg.h> 
